@@ -1,0 +1,7 @@
+input_file: "data/data_studenten_ads.tsv"
+cleaned_file: "data/clean_books.parquet"
+sentences_file: "data/sentences.parquet"
+aligned_file: "data/aligned_pairs.parquet"
+labeled_file: "data/aligned_pairs_labeled.parquet"
+nli_filtered_file: "data/nli_filtered.parquet"
+gpt_filtered_file: "data/gpt_filtered.parquet"
