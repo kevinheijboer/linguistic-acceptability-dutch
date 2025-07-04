@@ -200,3 +200,14 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
+
+# Ignore everything in data/
+data/*
+
+# Except this file, used to keep the folder
+!data/.gitkeep
+
+
+# Ignore everything in model_predictions/
+model_predictions/*
+
